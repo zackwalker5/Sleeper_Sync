@@ -1,9 +1,9 @@
 {
   "state": {
     "week": 1,
-    "leg": 1,
-    "season": "2025",
     "season_type": "regular",
+    "season": "2025",
+    "leg": 1,
     "league_season": "2025",
     "previous_season": "2024",
     "season_start_date": "2025-09-04",
@@ -211,10 +211,10 @@
     "last_message_text_map": null,
     "last_message_time": 1756076104780,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1257465328837861377",
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
+    "last_read_id": null,
     "roster_positions": [
       "QB",
       "RB",
