@@ -37,14 +37,19 @@ jobs:
           SLEEPER_WEEK: ${{ vars.SLEEPER_WEEK }}
         run: node scripts/fetch_sleeper.js
 
-      - name: Commit & push changes
+            - name: Commit & push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # make sure we're on the default branch
+          BRANCH="${GITHUB_REF_NAME:-main}"
+          git fetch origin "$BRANCH" || true
+          git checkout "$BRANCH" || git checkout -b "$BRANCH"
           if [[ -n "$(git status --porcelain)" ]]; then
             git add -A
             git commit -m "chore: update sleeper.json"
-            git push
+            git pull --rebase origin "$BRANCH" || true
+            git push origin HEAD:"$BRANCH"
           else
             echo "No changes to commit"
           fi
