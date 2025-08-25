@@ -1,5 +1,16 @@
 name: Sleeper Sync
 
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "*/30 * * * *"
+
+
+name: Sleeper Sync
+
 on:
   workflow_dispatch: {}
   schedule:
