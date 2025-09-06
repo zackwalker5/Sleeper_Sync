@@ -1,9 +1,9 @@
 {
   "state": {
     "week": 1,
-    "season_type": "regular",
-    "season": "2025",
     "leg": 1,
+    "season": "2025",
+    "season_type": "regular",
     "league_season": "2025",
     "previous_season": "2024",
     "season_start_date": "2025-09-04",
@@ -68,11 +68,11 @@
     },
     "avatar": null,
     "company_id": null,
-    "last_message_id": "1269475425864663040",
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2025",
     "shard": 368,
+    "season": "2025",
+    "season_type": "regular",
+    "sport": "nfl",
+    "last_message_id": "1269475425864663040",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -209,17 +209,15 @@
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "draft_id": "1257465328837861377",
     "last_message_time": 1757029036540,
     "last_pinned_message_id": null,
+    "draft_id": "1257465328837861377",
     "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -236,6 +234,8 @@
       "BN",
       "BN"
     ],
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
