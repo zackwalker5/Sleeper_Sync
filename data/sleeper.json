@@ -70,10 +70,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 368,
-    "season": "2025",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2025",
+    "shard": 368,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,21 +204,24 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1271401079627579392",
-    "draft_id": "1257465328837861377",
+    "last_message_id": "1271478732795707392",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1757488148174,
+    "last_message_time": 1757506662132,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1257465328837861377",
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -235,9 +238,6 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -696,7 +696,7 @@
         "8130",
         "8144",
         "8408",
-        "BUF"
+        "SF"
       ],
       "reserve": null,
       "roster_id": 5,
@@ -724,7 +724,7 @@
         "8130",
         "8144",
         "11533",
-        "BUF"
+        "SF"
       ],
       "taxi": null
     },
@@ -1275,7 +1275,7 @@
         "8130",
         "8144",
         "8408",
-        "BUF"
+        "SF"
       ],
       "roster_id": 5,
       "custom_points": null,
@@ -1289,7 +1289,7 @@
         "8130",
         "8144",
         "11533",
-        "BUF"
+        "SF"
       ],
       "starters_points": [
         0,
@@ -1316,7 +1316,7 @@
         "11631": 0,
         "12512": 0,
         "12517": 0,
-        "BUF": 0
+        "SF": 0
       }
     },
     {
