@@ -70,6 +70,11 @@
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1274139697249017856",
+    "shard": 368,
+    "season": "2025",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -200,18 +205,13 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "season": "2025",
-    "season_type": "regular",
-    "sport": "nfl",
-    "shard": 368,
-    "last_message_id": "1273937760574537728",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1758092940041,
+    "last_message_time": 1758141085496,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1257465328837861377",
@@ -980,11 +980,11 @@
         "6794",
         "6806",
         "8134",
-        "8154",
         "8205",
         "9226",
         "9756",
-        "BAL"
+        "BAL",
+        "SEA"
       ],
       "reserve": null,
       "roster_id": 10,
@@ -1571,11 +1571,11 @@
         "6794",
         "6806",
         "8134",
-        "8154",
         "8205",
         "9226",
         "9756",
-        "BAL"
+        "BAL",
+        "SEA"
       ],
       "roster_id": 10,
       "custom_points": null,
@@ -1608,7 +1608,6 @@
         "6794": 0,
         "6806": 0,
         "8134": 0,
-        "8154": 0,
         "8205": 0,
         "9226": 0,
         "9756": 0,
@@ -1616,7 +1615,8 @@
         "11566": 0,
         "11604": 0,
         "11635": 0,
-        "BAL": 0
+        "BAL": 0,
+        "SEA": 0
       }
     }
   ]
