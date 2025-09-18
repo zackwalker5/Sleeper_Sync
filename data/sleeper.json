@@ -71,10 +71,10 @@
     "avatar": null,
     "company_id": null,
     "last_message_id": "1274366365238583296",
+    "sport": "nfl",
     "shard": 368,
     "season": "2025",
     "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
