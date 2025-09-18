@@ -1,9 +1,9 @@
 {
   "state": {
     "week": 3,
-    "leg": 3,
-    "season": "2025",
     "season_type": "regular",
+    "season": "2025",
+    "leg": 3,
     "league_season": "2025",
     "previous_season": "2024",
     "season_start_date": "2025-09-04",
@@ -70,10 +70,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 368,
-    "season": "2025",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2025",
+    "shard": 368,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,14 +204,14 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1274222344021233664",
+    "last_message_id": "1274366365238583296",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1758160790022,
+    "last_message_time": 1758195127357,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1257465328837861377",
@@ -696,7 +696,7 @@
         "8130",
         "8144",
         "8408",
-        "SF"
+        "TB"
       ],
       "reserve": null,
       "roster_id": 5,
@@ -724,7 +724,7 @@
         "8130",
         "8144",
         "11533",
-        "SF"
+        "0"
       ],
       "taxi": null
     },
@@ -1278,7 +1278,7 @@
         "8130",
         "8144",
         "8408",
-        "SF"
+        "TB"
       ],
       "roster_id": 5,
       "custom_points": null,
@@ -1292,7 +1292,7 @@
         "8130",
         "8144",
         "11533",
-        "SF"
+        "0"
       ],
       "starters_points": [
         0,
@@ -1319,7 +1319,7 @@
         "11533": 0,
         "11631": 0,
         "12506": 0,
-        "SF": 0
+        "TB": 0
       }
     },
     {
