@@ -1,9 +1,9 @@
 {
   "state": {
     "week": 3,
-    "season_type": "regular",
-    "season": "2025",
     "leg": 3,
+    "season": "2025",
+    "season_type": "regular",
     "league_season": "2025",
     "previous_season": "2024",
     "season_start_date": "2025-09-04",
@@ -69,6 +69,10 @@
       "daily_waivers_last_ran": 24
     },
     "avatar": null,
+    "shard": 368,
+    "season": "2025",
+    "season_type": "regular",
+    "sport": "nfl",
     "company_id": null,
     "scoring_settings": {
       "sack": 1,
@@ -200,10 +204,6 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "season": "2025",
-    "season_type": "regular",
-    "sport": "nfl",
-    "shard": 368,
     "last_message_id": "1274366365238583296",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -211,12 +211,17 @@
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
+    "draft_id": "1257465328837861377",
     "last_message_time": 1758195127357,
     "last_pinned_message_id": null,
-    "draft_id": "1257465328837861377",
     "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -233,11 +238,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -488,15 +488,15 @@
         "wins": 1
       },
       "starters": [
-        "6797",
+        "1234",
         "9509",
         "8151",
         "11620",
-        "3321",
+        "8137",
         "10236",
-        "6801",
+        "5859",
         "2747",
-        "0"
+        "GB"
       ],
       "taxi": null
     },
@@ -1044,15 +1044,15 @@
       "custom_points": null,
       "matchup_id": 2,
       "starters": [
-        "6797",
+        "1234",
         "9509",
         "8151",
         "11620",
-        "3321",
+        "8137",
         "10236",
-        "6801",
+        "5859",
         "2747",
-        "0"
+        "GB"
       ],
       "starters_points": [
         0,
