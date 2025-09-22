@@ -202,8 +202,8 @@
     },
     "season": "2025",
     "season_type": "regular",
-    "shard": 368,
     "sport": "nfl",
+    "shard": 368,
     "last_message_id": "1275597235253411840",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -217,7 +217,6 @@
     "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -236,6 +235,7 @@
     ],
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -1022,7 +1022,7 @@
   "week": 3,
   "matchups": [
     {
-      "points": 140.1,
+      "points": 140.3,
       "players": [
         "10236",
         "11577",
@@ -1054,7 +1054,7 @@
         "GB"
       ],
       "starters_points": [
-        6.5,
+        6.7,
         16.1,
         18,
         15.2,
@@ -1065,7 +1065,7 @@
         9
       ],
       "players_points": {
-        "1234": 6.5,
+        "1234": 6.7,
         "2747": 17,
         "3321": 15.9,
         "5844": 15.9,
@@ -1202,7 +1202,7 @@
       }
     },
     {
-      "points": 117.6,
+      "points": 116.9,
       "players": [
         "11560",
         "3451",
@@ -1234,7 +1234,7 @@
         "MIN"
       ],
       "starters_points": [
-        18.1,
+        17.4,
         19.2,
         9.6,
         22.8,
@@ -1246,7 +1246,7 @@
       ],
       "players_points": {
         "3451": 3,
-        "4046": 18.1,
+        "4046": 17.4,
         "4199": 0,
         "5012": 0,
         "5846": 12.2,
