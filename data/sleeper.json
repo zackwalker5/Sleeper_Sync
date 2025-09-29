@@ -69,11 +69,11 @@
       "daily_waivers_last_ran": 24
     },
     "avatar": null,
-    "company_id": null,
     "shard": 368,
     "season": "2025",
     "season_type": "regular",
     "sport": "nfl",
+    "company_id": null,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
