@@ -70,10 +70,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 368,
-    "season": "2025",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,14 +200,18 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1279076293421314048",
+    "season": "2025",
+    "season_type": "regular",
+    "shard": 368,
+    "sport": "nfl",
+    "last_message_id": "1279093292901859328",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1759318061741,
+    "last_message_time": 1759322114734,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1257465328837861377",
@@ -220,8 +220,6 @@
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -238,6 +236,8 @@
       "BN",
       "BN"
     ],
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -991,7 +991,7 @@
         "6794",
         "6806",
         "9226",
-        "BUF",
+        "CLE",
         "HOU"
       ],
       "reserve": [
@@ -1014,7 +1014,7 @@
         "wins": 1
       },
       "starters": [
-        "6768",
+        "11566",
         "9226",
         "6806",
         "6794",
@@ -1022,7 +1022,7 @@
         "11604",
         "11624",
         "5095",
-        "BUF"
+        "CLE"
       ],
       "taxi": null
     }
@@ -1589,14 +1589,14 @@
         "6794",
         "6806",
         "9226",
-        "BUF",
+        "CLE",
         "HOU"
       ],
       "roster_id": 10,
       "custom_points": null,
       "matchup_id": 5,
       "starters": [
-        "6768",
+        "11566",
         "9226",
         "6806",
         "6794",
@@ -1604,7 +1604,7 @@
         "11604",
         "11624",
         "5095",
-        "BUF"
+        "CLE"
       ],
       "starters_points": [
         0,
@@ -1631,7 +1631,7 @@
         "11624": 0,
         "11635": 0,
         "12892": 0,
-        "BUF": 0,
+        "CLE": 0,
         "HOU": 0
       }
     }
