@@ -70,10 +70,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2025",
     "shard": 368,
+    "season": "2025",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,24 +204,20 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1279624942605840384",
+    "last_message_id": "1279803982071480320",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1759448869901,
+    "last_message_time": 1759491556235,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1257465328837861377",
+    "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -238,6 +234,10 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -487,7 +487,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 7,
+        "waiver_position": 6,
         "wins": 1
       },
       "starters": [
@@ -526,7 +526,8 @@
         "5045",
         "7569",
         "9224",
-        "9484"
+        "9484",
+        "BUF"
       ],
       "reserve": null,
       "roster_id": 2,
@@ -542,7 +543,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 1,
+        "waiver_position": 10,
         "wins": 2
       },
       "starters": [
@@ -605,7 +606,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 6,
+        "waiver_position": 5,
         "wins": 3
       },
       "starters": [
@@ -661,7 +662,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 2,
+        "waiver_position": 1,
         "wins": 4
       },
       "starters": [
@@ -717,7 +718,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 3
       },
       "starters": [
@@ -780,7 +781,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 8,
+        "waiver_position": 7,
         "wins": 1
       },
       "starters": [
@@ -836,7 +837,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 4,
+        "waiver_position": 3,
         "wins": 0
       },
       "starters": [
@@ -892,7 +893,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 5,
+        "waiver_position": 4,
         "wins": 2
       },
       "starters": [
@@ -952,7 +953,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 3,
+        "waiver_position": 2,
         "wins": 3
       },
       "starters": [
@@ -1011,7 +1012,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 1
       },
       "starters": [
@@ -1105,7 +1106,8 @@
         "5045",
         "7569",
         "9224",
-        "9484"
+        "9484",
+        "BUF"
       ],
       "roster_id": 2,
       "custom_points": null,
@@ -1145,7 +1147,8 @@
         "11655": 0,
         "12512": 0,
         "12526": 0,
-        "12527": 0
+        "12527": 0,
+        "BUF": 0
       }
     },
     {
