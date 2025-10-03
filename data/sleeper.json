@@ -205,8 +205,8 @@
       "st_ff": 1
     },
     "last_message_id": "1279624942605840384",
-    "last_author_avatar": null,
     "draft_id": "1257465328837861377",
+    "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
@@ -217,9 +217,6 @@
     "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -236,6 +233,9 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -1031,7 +1031,7 @@
   "week": 5,
   "matchups": [
     {
-      "points": -1,
+      "points": -2,
       "players": [
         "10236",
         "11577",
@@ -1071,7 +1071,7 @@
         0,
         0,
         0,
-        -1
+        -2
       ],
       "players_points": {
         "2505": 0,
@@ -1087,7 +1087,7 @@
         "10236": 0,
         "11577": 0,
         "11620": 0,
-        "LAR": -1
+        "LAR": -2
       }
     },
     {
@@ -1211,7 +1211,7 @@
       }
     },
     {
-      "points": 46.3,
+      "points": 55.6,
       "players": [
         "11560",
         "3451",
@@ -1244,9 +1244,9 @@
       ],
       "starters_points": [
         0,
-        23.7,
+        31.1,
         0,
-        22.6,
+        24.5,
         0,
         0,
         0,
@@ -1263,8 +1263,8 @@
         "7547": 0,
         "7553": 0,
         "7594": 0,
-        "8150": 23.7,
-        "9493": 22.6,
+        "8150": 31.1,
+        "9493": 24.5,
         "9997": 0,
         "11560": 0,
         "MIN": 0
@@ -1375,7 +1375,7 @@
         0
       ],
       "players_points": {
-        "421": 31.65,
+        "421": 35.45,
         "3198": 0,
         "4033": 0,
         "4983": 0,
@@ -1393,7 +1393,7 @@
       }
     },
     {
-      "points": 23.6,
+      "points": 27.9,
       "players": [
         "12501",
         "1466",
@@ -1426,7 +1426,7 @@
       ],
       "starters_points": [
         0,
-        23.6,
+        27.9,
         0,
         0,
         0,
@@ -1439,7 +1439,7 @@
         "1466": 0,
         "1479": 0,
         "3294": 0,
-        "4034": 23.6,
+        "4034": 27.9,
         "4039": 0,
         "4892": 0,
         "5848": 0,
