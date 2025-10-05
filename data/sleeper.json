@@ -70,10 +70,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 368,
-    "season": "2025",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,6 +200,10 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
+    "season": "2025",
+    "season_type": "regular",
+    "sport": "nfl",
+    "shard": 368,
     "last_message_id": "1280394794375315456",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -213,15 +213,10 @@
     "last_message_text_map": null,
     "last_message_time": 1759632416865,
     "last_pinned_message_id": null,
-    "draft_id": "1257465328837861377",
     "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
+    "draft_id": "1257465328837861377",
     "roster_positions": [
       "QB",
       "RB",
@@ -238,6 +233,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -555,7 +555,7 @@
         "3214",
         "12526",
         "4195",
-        "0"
+        "BUF"
       ],
       "taxi": null
     },
@@ -1121,7 +1121,7 @@
         "3214",
         "12526",
         "4195",
-        "0"
+        "BUF"
       ],
       "starters_points": [
         0,
@@ -1214,7 +1214,7 @@
       }
     },
     {
-      "points": 55.6,
+      "points": 65.6,
       "players": [
         "11560",
         "3451",
@@ -1254,7 +1254,7 @@
         0,
         0,
         0,
-        0
+        10
       ],
       "players_points": {
         "3451": 0,
@@ -1270,7 +1270,7 @@
         "9493": 24.5,
         "9997": 0,
         "11560": 0,
-        "MIN": 0
+        "MIN": 10
       }
     },
     {
