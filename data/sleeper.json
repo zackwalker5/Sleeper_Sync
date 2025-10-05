@@ -70,7 +70,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "last_message_id": "1280558182137085952",
     "shard": 368,
     "season": "2025",
     "season_type": "regular",
@@ -205,6 +204,8 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
+    "last_message_id": "1280558182137085952",
+    "draft_id": "1257465328837861377",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -213,10 +214,12 @@
     "last_message_text_map": null,
     "last_message_time": 1759671371543,
     "last_pinned_message_id": null,
-    "draft_id": "1257465328837861377",
-    "league_id": "1257465328837861376",
     "last_read_id": null,
+    "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -233,9 +236,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -1092,7 +1092,7 @@
       }
     },
     {
-      "points": 10.3,
+      "points": 12.3,
       "players": [
         "11638",
         "11655",
@@ -1126,7 +1126,7 @@
       "starters_points": [
         0,
         0,
-        10.3,
+        12.3,
         0,
         0,
         0,
@@ -1145,7 +1145,7 @@
         "9484": 0,
         "11638": 0,
         "11655": 0,
-        "12512": 10.3,
+        "12512": 12.3,
         "12526": 0,
         "12527": 0,
         "BUF": 0
@@ -1216,7 +1216,7 @@
       }
     },
     {
-      "points": 61.6,
+      "points": 60.6,
       "players": [
         "11560",
         "3451",
@@ -1256,7 +1256,7 @@
         0,
         0,
         0,
-        6
+        5
       ],
       "players_points": {
         "3451": 0,
@@ -1272,11 +1272,11 @@
         "9493": 24.5,
         "9997": 0,
         "11560": 0,
-        "MIN": 6
+        "MIN": 5
       }
     },
     {
-      "points": 8.8,
+      "points": 9.9,
       "players": [
         "11533",
         "11631",
@@ -1309,7 +1309,7 @@
       ],
       "starters_points": [
         0,
-        8.8,
+        9.9,
         0,
         0,
         0,
@@ -1329,7 +1329,7 @@
         "8134": 0,
         "8136": 0,
         "8144": 0,
-        "8408": 8.8,
+        "8408": 9.9,
         "11533": 0,
         "11631": 0,
         "IND": 0
@@ -1382,7 +1382,7 @@
       "players_points": {
         "421": 35.45,
         "3198": 0,
-        "4033": 7.1,
+        "4033": 16.6,
         "4983": 0,
         "6083": 0,
         "6770": 0,
@@ -1578,7 +1578,7 @@
       }
     },
     {
-      "points": 21.2,
+      "points": 27.5,
       "players": [
         "11566",
         "11604",
@@ -1614,7 +1614,7 @@
         0,
         0,
         0,
-        9.9,
+        16.2,
         0,
         11.3,
         0,
@@ -1626,7 +1626,7 @@
         "5870": 0,
         "6768": 0,
         "6783": 3.5,
-        "6794": 9.9,
+        "6794": 16.2,
         "6806": 0,
         "8126": 0,
         "9226": 0,
