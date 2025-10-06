@@ -2,8 +2,8 @@
   "state": {
     "week": 5,
     "leg": 5,
-    "season_type": "regular",
     "season": "2025",
+    "season_type": "regular",
     "league_season": "2025",
     "previous_season": "2024",
     "season_start_date": "2025-09-04",
@@ -70,6 +70,7 @@
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1280558182137085952",
     "shard": 368,
     "season": "2025",
     "season_type": "regular",
@@ -204,19 +205,23 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1280558182137085952",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "draft_id": "1257465328837861377",
     "last_message_text_map": null,
     "last_message_time": 1759671371543,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1257465328837861377",
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -233,11 +238,6 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -1276,7 +1276,7 @@
       }
     },
     {
-      "points": 118.3,
+      "points": 118.95,
       "players": [
         "11533",
         "11631",
@@ -1308,7 +1308,7 @@
         "IND"
       ],
       "starters_points": [
-        25.3,
+        25.95,
         12.6,
         26.9,
         12.9,
@@ -1320,7 +1320,7 @@
       ],
       "players_points": {
         "4035": 9.5,
-        "4984": 25.3,
+        "4984": 25.95,
         "5849": 17.5,
         "6786": 0,
         "7588": 26.9,
@@ -1336,7 +1336,7 @@
       }
     },
     {
-      "points": 119.9,
+      "points": 121.45,
       "players": [
         "10859",
         "11564",
@@ -1369,7 +1369,7 @@
         "PHI"
       ],
       "starters_points": [
-        13.3,
+        14.85,
         9.3,
         32.4,
         14.9,
@@ -1390,7 +1390,7 @@
         "7021": 32.4,
         "8228": 0,
         "10859": 20.2,
-        "11564": 13.3,
+        "11564": 14.85,
         "11584": 0,
         "11628": 13.8,
         "12489": 6,
@@ -1578,7 +1578,7 @@
       }
     },
     {
-      "points": 118.25,
+      "points": 122.25,
       "players": [
         "11566",
         "11604",
@@ -1618,11 +1618,11 @@
         8.2,
         11.3,
         0,
-        5,
+        9,
         21
       ],
       "players_points": {
-        "17": 5,
+        "17": 9,
         "5870": 22.8,
         "6768": 31.3,
         "6783": 3.5,
