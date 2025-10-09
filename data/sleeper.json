@@ -70,6 +70,7 @@
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1281824798988566528",
     "shard": 368,
     "season": "2025",
     "season_type": "regular",
@@ -204,24 +205,18 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1281650089982459904",
+    "draft_id": "1257465328837861377",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1759931702661,
+    "last_message_time": 1759973356533,
     "last_pinned_message_id": null,
-    "draft_id": "1257465328837861377",
     "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -238,6 +233,11 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -728,7 +728,7 @@
         "8144",
         "11631",
         "8130",
-        "4035",
+        "8121",
         "11533",
         "IND"
       ],
@@ -994,7 +994,7 @@
         "6806",
         "8126",
         "9226",
-        "CLE"
+        "GB"
       ],
       "reserve": [
         "12892"
@@ -1019,12 +1019,12 @@
         "11566",
         "9226",
         "6806",
-        "6794",
+        "11635",
         "8126",
-        "12506",
+        "11604",
         "11624",
-        "0",
-        "0"
+        "1433",
+        "GB"
       ],
       "taxi": null
     }
@@ -1301,7 +1301,7 @@
         "8144",
         "11631",
         "8130",
-        "4035",
+        "8121",
         "11533",
         "IND"
       ],
@@ -1592,7 +1592,7 @@
         "6806",
         "8126",
         "9226",
-        "CLE"
+        "GB"
       ],
       "roster_id": 10,
       "custom_points": null,
@@ -1605,8 +1605,8 @@
         "8126",
         "11604",
         "11624",
-        "0",
-        "0"
+        "1433",
+        "GB"
       ],
       "starters_points": [
         0,
@@ -1634,7 +1634,7 @@
         "11789": 0,
         "12506": 0,
         "12892": 0,
-        "CLE": 0
+        "GB": 0
       }
     }
   ]
