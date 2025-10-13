@@ -214,9 +214,9 @@
     "last_message_text_map": null,
     "last_message_time": 1760297160352,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
+    "last_read_id": null,
     "roster_positions": [
       "QB",
       "RB",
