@@ -2,8 +2,8 @@
   "state": {
     "week": 7,
     "leg": 7,
-    "season": "2025",
     "season_type": "regular",
+    "season": "2025",
     "league_season": "2025",
     "previous_season": "2024",
     "season_start_date": "2025-09-04",
@@ -69,10 +69,11 @@
       "daily_waivers_last_ran": 24
     },
     "avatar": null,
-    "shard": 368,
-    "season": "2025",
-    "season_type": "regular",
+    "company_id": null,
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2025",
+    "last_message_id": "1284144789415034880",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -203,20 +204,24 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1284084643158568961",
-    "company_id": null,
+    "shard": 368,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1760512145369,
+    "last_message_time": 1760526485354,
     "last_pinned_message_id": null,
-    "draft_id": "1257465328837861377",
     "last_read_id": null,
+    "draft_id": "1257465328837861377",
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -233,11 +238,6 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -698,11 +698,11 @@
         "7588",
         "8121",
         "8130",
-        "8134",
         "8136",
         "8144",
         "8408",
-        "IND"
+        "96",
+        "CLE"
       ],
       "reserve": null,
       "roster_id": 5,
@@ -722,7 +722,7 @@
         "wins": 5
       },
       "starters": [
-        "4984",
+        "96",
         "8136",
         "7588",
         "8144",
@@ -730,7 +730,7 @@
         "8130",
         "8121",
         "11533",
-        "IND"
+        "CLE"
       ],
       "taxi": null
     },
@@ -983,8 +983,8 @@
         "11566",
         "11624",
         "11635",
+        "12506",
         "12892",
-        "4144",
         "4943",
         "6650",
         "6794",
@@ -1021,8 +1021,8 @@
         "6806",
         "11635",
         "8126",
-        "7002",
-        "11624",
+        "12506",
+        "6794",
         "6650",
         "GB"
       ],
@@ -1285,17 +1285,17 @@
         "7588",
         "8121",
         "8130",
-        "8134",
         "8136",
         "8144",
         "8408",
-        "IND"
+        "96",
+        "CLE"
       ],
       "roster_id": 5,
       "custom_points": null,
       "matchup_id": 3,
       "starters": [
-        "4984",
+        "96",
         "8136",
         "7588",
         "8144",
@@ -1303,7 +1303,7 @@
         "8130",
         "8121",
         "11533",
-        "IND"
+        "CLE"
       ],
       "starters_points": [
         0,
@@ -1317,6 +1317,7 @@
         0
       ],
       "players_points": {
+        "96": 0,
         "4035": 0,
         "4984": 0,
         "5849": 0,
@@ -1324,13 +1325,12 @@
         "7588": 0,
         "8121": 0,
         "8130": 0,
-        "8134": 0,
         "8136": 0,
         "8144": 0,
         "8408": 0,
         "11533": 0,
         "11631": 0,
-        "IND": 0
+        "CLE": 0
       }
     },
     {
@@ -1581,8 +1581,8 @@
         "11566",
         "11624",
         "11635",
+        "12506",
         "12892",
-        "4144",
         "4943",
         "6650",
         "6794",
@@ -1603,8 +1603,8 @@
         "6806",
         "11635",
         "8126",
-        "7002",
-        "11624",
+        "12506",
+        "6794",
         "6650",
         "GB"
       ],
@@ -1620,7 +1620,6 @@
         0
       ],
       "players_points": {
-        "4144": 0,
         "4943": 0,
         "6650": 0,
         "6794": 0,
@@ -1632,6 +1631,7 @@
         "11566": 0,
         "11624": 0,
         "11635": 0,
+        "12506": 0,
         "12892": 0,
         "GB": 0,
         "LAR": 0
