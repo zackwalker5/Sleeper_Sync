@@ -73,6 +73,7 @@
     "sport": "nfl",
     "season_type": "regular",
     "season": "2025",
+    "shard": 368,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -203,15 +204,14 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "shard": 368,
-    "last_message_id": "1284144789415034880",
+    "last_message_id": "1284245627743535104",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1760526485354,
+    "last_message_time": 1760550527086,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1257465328837861377",
@@ -220,6 +220,8 @@
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -236,8 +238,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -527,7 +527,7 @@
         "7569",
         "9224",
         "9484",
-        "BUF"
+        "CHI"
       ],
       "reserve": null,
       "roster_id": 2,
@@ -550,12 +550,12 @@
         "3163",
         "12527",
         "12512",
-        "5045",
+        "10229",
         "7569",
         "9484",
         "2449",
         "4195",
-        "BUF"
+        "CHI"
       ],
       "taxi": null
     },
@@ -1107,7 +1107,7 @@
         "7569",
         "9224",
         "9484",
-        "BUF"
+        "CHI"
       ],
       "roster_id": 2,
       "custom_points": null,
@@ -1116,12 +1116,12 @@
         "3163",
         "12527",
         "12512",
-        "5045",
+        "10229",
         "7569",
         "9484",
         "2449",
         "4195",
-        "BUF"
+        "CHI"
       ],
       "starters_points": [
         0,
@@ -1148,7 +1148,7 @@
         "12512": 0,
         "12526": 0,
         "12527": 0,
-        "BUF": 0
+        "CHI": 0
       }
     },
     {
