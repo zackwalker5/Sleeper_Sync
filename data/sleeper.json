@@ -2,12 +2,12 @@
   "state": {
     "week": 7,
     "leg": 7,
-    "season": "2025",
     "season_type": "regular",
+    "season": "2025",
     "league_season": "2025",
     "previous_season": "2024",
     "season_start_date": "2025-09-04",
-    "display_week": 6,
+    "display_week": 7,
     "league_create_season": "2025",
     "season_has_scores": true
   },
@@ -63,14 +63,14 @@
       "trade_review_days": 2,
       "bench_lock": 0,
       "offseason_adds": 0,
-      "leg": 6,
+      "leg": 7,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
       "daily_waivers_last_ran": 24
     },
     "avatar": null,
     "company_id": null,
-    "last_message_id": "1283850860706680833",
+    "last_message_id": "1284084643158568961",
     "sport": "nfl",
     "shard": 368,
     "season": "2025",
@@ -209,14 +209,19 @@
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
-    "draft_id": "1257465328837861377",
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1760456407290,
+    "last_message_time": 1760512145369,
     "last_pinned_message_id": null,
+    "draft_id": "1257465328837861377",
     "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -233,11 +238,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -514,6 +514,7 @@
       "owner_id": "561736455764434944",
       "player_map": null,
       "players": [
+        "10229",
         "11638",
         "12512",
         "12526",
@@ -522,7 +523,6 @@
         "3163",
         "3214",
         "4195",
-        "4981",
         "5045",
         "7569",
         "9224",
@@ -543,7 +543,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 7,
+        "waiver_position": 8,
         "wins": 3
       },
       "starters": [
@@ -582,8 +582,8 @@
         "2133",
         "5022",
         "5850",
-        "5947",
         "6904",
+        "7049",
         "7564",
         "8155",
         "9488",
@@ -606,7 +606,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 8,
+        "waiver_position": 9,
         "wins": 4
       },
       "starters": [
@@ -662,7 +662,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 10,
+        "waiver_position": 6,
         "wins": 6
       },
       "starters": [
@@ -718,7 +718,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 6,
+        "waiver_position": 5,
         "wins": 5
       },
       "starters": [
@@ -753,8 +753,8 @@
         "11564",
         "11584",
         "11628",
-        "12489",
         "3198",
+        "3200",
         "4033",
         "421",
         "4983",
@@ -781,7 +781,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 5,
+        "waiver_position": 7,
         "wins": 1
       },
       "starters": [
@@ -981,20 +981,20 @@
       "player_map": null,
       "players": [
         "11566",
-        "11604",
         "11624",
         "11635",
         "12892",
+        "4144",
+        "4943",
         "6650",
-        "6768",
-        "6783",
         "6794",
         "6806",
         "7002",
         "8126",
         "8183",
         "9226",
-        "GB"
+        "GB",
+        "LAR"
       ],
       "reserve": [
         "12892"
@@ -1012,7 +1012,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 9,
+        "waiver_position": 10,
         "wins": 3
       },
       "starters": [
@@ -1094,6 +1094,7 @@
     {
       "points": 0,
       "players": [
+        "10229",
         "11638",
         "12512",
         "12526",
@@ -1102,7 +1103,6 @@
         "3163",
         "3214",
         "4195",
-        "4981",
         "5045",
         "7569",
         "9224",
@@ -1139,11 +1139,11 @@
         "3163": 0,
         "3214": 0,
         "4195": 0,
-        "4981": 0,
         "5045": 0,
         "7569": 0,
         "9224": 0,
         "9484": 0,
+        "10229": 0,
         "11638": 0,
         "12512": 0,
         "12526": 0,
@@ -1162,8 +1162,8 @@
         "2133",
         "5022",
         "5850",
-        "5947",
         "6904",
+        "7049",
         "7564",
         "8155",
         "9488",
@@ -1199,8 +1199,8 @@
         "2133": 0,
         "5022": 0,
         "5850": 0,
-        "5947": 0,
         "6904": 0,
+        "7049": 0,
         "7564": 0,
         "8155": 0,
         "9488": 0,
@@ -1340,8 +1340,8 @@
         "11564",
         "11584",
         "11628",
-        "12489",
         "3198",
+        "3200",
         "4033",
         "421",
         "4983",
@@ -1380,6 +1380,7 @@
       "players_points": {
         "421": 0,
         "3198": 0,
+        "3200": 0,
         "4033": 0,
         "4983": 0,
         "6083": 0,
@@ -1391,7 +1392,6 @@
         "11564": 0,
         "11584": 0,
         "11628": 0,
-        "12489": 0,
         "PHI": 0
       }
     },
@@ -1579,20 +1579,20 @@
       "points": 0,
       "players": [
         "11566",
-        "11604",
         "11624",
         "11635",
         "12892",
+        "4144",
+        "4943",
         "6650",
-        "6768",
-        "6783",
         "6794",
         "6806",
         "7002",
         "8126",
         "8183",
         "9226",
-        "GB"
+        "GB",
+        "LAR"
       ],
       "roster_id": 10,
       "custom_points": null,
@@ -1620,9 +1620,9 @@
         0
       ],
       "players_points": {
+        "4144": 0,
+        "4943": 0,
         "6650": 0,
-        "6768": 0,
-        "6783": 0,
         "6794": 0,
         "6806": 0,
         "7002": 0,
@@ -1630,11 +1630,11 @@
         "8183": 0,
         "9226": 0,
         "11566": 0,
-        "11604": 0,
         "11624": 0,
         "11635": 0,
         "12892": 0,
-        "GB": 0
+        "GB": 0,
+        "LAR": 0
       }
     }
   ]
