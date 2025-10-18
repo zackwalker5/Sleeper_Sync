@@ -74,7 +74,6 @@
     "season": "2025",
     "season_type": "regular",
     "sport": "nfl",
-    "last_message_id": "1284691048655753216",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -205,6 +204,7 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
+    "last_message_id": "1284691048655753216",
     "draft_id": "1257465328837861377",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
