@@ -202,8 +202,8 @@
     },
     "season": "2025",
     "season_type": "regular",
-    "shard": 368,
     "sport": "nfl",
+    "shard": 368,
     "last_message_id": "1284691048655753216",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -233,9 +233,9 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
