@@ -1,9 +1,9 @@
 {
   "state": {
     "week": 7,
-    "leg": 7,
-    "season": "2025",
     "season_type": "regular",
+    "season": "2025",
+    "leg": 7,
     "league_season": "2025",
     "previous_season": "2024",
     "season_start_date": "2025-09-04",
@@ -70,10 +70,11 @@
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1285630074208415744",
+    "sport": "nfl",
     "shard": 368,
     "season": "2025",
     "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,7 +205,6 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1285630074208415744",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -212,16 +212,13 @@
     "last_message_attachment": null,
     "last_message_text_map": null,
     "last_message_time": 1760880604844,
-    "last_pinned_message_id": null,
     "draft_id": "1257465328837861377",
+    "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -238,6 +235,9 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -1032,7 +1032,7 @@
   "week": 7,
   "matchups": [
     {
-      "points": 126.7,
+      "points": 127.7,
       "players": [
         "10236",
         "11577",
@@ -1071,12 +1071,12 @@
         12.2,
         0,
         5.1,
-        1,
+        2,
         20
       ],
       "players_points": {
         "2505": 0,
-        "2747": 1,
+        "2747": 2,
         "3321": 0,
         "5859": 28.1,
         "5892": 5.9,
@@ -1092,7 +1092,7 @@
       }
     },
     {
-      "points": 118.45,
+      "points": 125.15,
       "players": [
         "10229",
         "11638",
@@ -1128,7 +1128,7 @@
         4.4,
         26.4,
         23.2,
-        0,
+        6.7,
         16.8,
         13.9,
         3,
@@ -1140,7 +1140,7 @@
         "3214": 7.3,
         "4195": 3,
         "5045": 16.7,
-        "7569": 0,
+        "7569": 6.7,
         "9224": 12,
         "9484": 16.8,
         "10229": 23.2,
@@ -1152,7 +1152,7 @@
       }
     },
     {
-      "points": 139.3,
+      "points": 154.3,
       "players": [
         "10222",
         "11539",
@@ -1189,7 +1189,7 @@
         18.4,
         7.2,
         38.1,
-        0,
+        15,
         4.8,
         26.5,
         7,
@@ -1203,12 +1203,12 @@
         "7049": 7.1,
         "7564": 38.1,
         "8155": 7.2,
-        "9488": 0,
+        "9488": 15,
         "9754": 11,
         "10222": 0,
         "11539": 7,
         "11563": 46.75,
-        "11603": 1.7,
+        "11603": 1.9,
         "12481": 18.4,
         "DEN": 4
       }
@@ -1396,7 +1396,7 @@
       }
     },
     {
-      "points": 141.2,
+      "points": 143.4,
       "players": [
         "12501",
         "1466",
@@ -1434,7 +1434,7 @@
         9.4,
         28.9,
         21.9,
-        0,
+        2.2,
         7,
         13
       ],
@@ -1443,7 +1443,7 @@
         "1479": 28.9,
         "3294": 31.9,
         "4034": 39.1,
-        "4039": 0,
+        "4039": 2.2,
         "4892": 15.4,
         "5848": 9.4,
         "5927": 0,
@@ -1516,7 +1516,7 @@
       }
     },
     {
-      "points": 124.65,
+      "points": 127.65,
       "players": [
         "12514",
         "12518",
@@ -1555,12 +1555,12 @@
         9.8,
         16.9,
         5.6,
-        0,
+        3,
         -4
       ],
       "players_points": {
         "2216": 0,
-        "3451": 0,
+        "3451": 3,
         "6804": 17.15,
         "6813": 34.2,
         "7523": 22.6,
@@ -1620,7 +1620,7 @@
         9
       ],
       "players_points": {
-        "4943": 2.1,
+        "4943": 12.5,
         "6650": 5,
         "6794": 12.9,
         "6806": 9,
