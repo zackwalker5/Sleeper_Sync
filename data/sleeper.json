@@ -70,10 +70,11 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2025",
+    "last_message_id": "1286765453552648192",
     "shard": 368,
+    "season": "2025",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,24 +205,18 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1286691383423299584",
-    "draft_id": "1257465328837861377",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1761133640680,
+    "last_message_time": 1761151300375,
     "last_pinned_message_id": null,
+    "draft_id": "1257465328837861377",
     "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -238,6 +233,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -867,17 +867,16 @@
         "12504",
         "12533",
         "1339",
-        "3269",
+        "19",
         "4217",
         "4227",
         "4866",
         "4881",
         "7525",
         "7526",
-        "7591",
         "8138",
         "8146",
-        "ARI"
+        "TB"
       ],
       "reserve": null,
       "roster_id": 8,
@@ -897,15 +896,15 @@
         "wins": 2
       },
       "starters": [
-        "7591",
+        "4881",
         "4866",
         "12533",
         "7525",
-        "3269",
+        "0",
         "4217",
         "7526",
         "4227",
-        "ARI"
+        "TB"
       ],
       "taxi": null
     },
@@ -1461,31 +1460,30 @@
         "12504",
         "12533",
         "1339",
-        "3269",
+        "19",
         "4217",
         "4227",
         "4866",
         "4881",
         "7525",
         "7526",
-        "7591",
         "8138",
         "8146",
-        "ARI"
+        "TB"
       ],
       "roster_id": 8,
       "custom_points": null,
       "matchup_id": 4,
       "starters": [
-        "7591",
+        "4881",
         "4866",
         "12533",
         "7525",
-        "3269",
+        "0",
         "4217",
         "7526",
         "4227",
-        "ARI"
+        "TB"
       ],
       "starters_points": [
         0,
@@ -1499,20 +1497,19 @@
         0
       ],
       "players_points": {
+        "19": 0,
         "1339": 0,
-        "3269": 0,
         "4217": 0,
         "4227": 0,
         "4866": 0,
         "4881": 0,
         "7525": 0,
         "7526": 0,
-        "7591": 0,
         "8138": 0,
         "8146": 0,
         "12504": 0,
         "12533": 0,
-        "ARI": 0
+        "TB": 0
       }
     },
     {
