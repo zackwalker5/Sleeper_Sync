@@ -1,9 +1,9 @@
 {
   "state": {
     "week": 8,
-    "season_type": "regular",
-    "season": "2025",
     "leg": 8,
+    "season": "2025",
+    "season_type": "regular",
     "league_season": "2025",
     "previous_season": "2024",
     "season_start_date": "2025-09-04",
@@ -70,11 +70,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "last_message_id": "1286765453552648192",
-    "shard": 368,
-    "season": "2025",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2025",
+    "shard": 368,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -205,18 +204,24 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
+    "last_message_id": "1286767693734617088",
+    "draft_id": "1257465328837861377",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1761151300375,
+    "last_message_time": 1761151834475,
     "last_pinned_message_id": null,
-    "draft_id": "1257465328837861377",
     "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -233,11 +238,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -876,6 +876,7 @@
         "7526",
         "8138",
         "8146",
+        "9756",
         "TB"
       ],
       "reserve": null,
@@ -900,7 +901,7 @@
         "4866",
         "12533",
         "7525",
-        "0",
+        "9756",
         "4217",
         "7526",
         "4227",
@@ -1015,7 +1016,7 @@
         "wins": 3
       },
       "starters": [
-        "11566",
+        "8183",
         "9226",
         "6806",
         "11635",
@@ -1469,6 +1470,7 @@
         "7526",
         "8138",
         "8146",
+        "9756",
         "TB"
       ],
       "roster_id": 8,
@@ -1479,7 +1481,7 @@
         "4866",
         "12533",
         "7525",
-        "0",
+        "9756",
         "4217",
         "7526",
         "4227",
@@ -1507,6 +1509,7 @@
         "7526": 0,
         "8138": 0,
         "8146": 0,
+        "9756": 0,
         "12504": 0,
         "12533": 0,
         "TB": 0
@@ -1595,7 +1598,7 @@
       "custom_points": null,
       "matchup_id": 4,
       "starters": [
-        "11566",
+        "8183",
         "9226",
         "6806",
         "11635",
