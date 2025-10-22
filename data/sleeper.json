@@ -202,24 +202,21 @@
     },
     "season": "2025",
     "season_type": "regular",
-    "sport": "nfl",
     "shard": 368,
-    "last_message_id": "1286767693734617088",
+    "sport": "nfl",
+    "last_message_id": "1286815042284556288",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1761151834475,
+    "last_message_time": 1761163123250,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1257465328837861377",
+    "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -236,6 +233,9 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -646,7 +646,7 @@
         "8150",
         "9493",
         "9997",
-        "LV"
+        "IND"
       ],
       "reserve": null,
       "roster_id": 4,
@@ -667,14 +667,14 @@
       },
       "starters": [
         "4046",
-        "8150",
         "7611",
-        "7547",
-        "11650",
-        "7553",
+        "7594",
+        "9997",
         "5846",
+        "7553",
+        "5012",
         "1945",
-        "LV"
+        "IND"
       ],
       "taxi": null
     },
@@ -1229,21 +1229,21 @@
         "8150",
         "9493",
         "9997",
-        "LV"
+        "IND"
       ],
       "roster_id": 4,
       "custom_points": null,
       "matchup_id": 3,
       "starters": [
         "4046",
-        "8150",
         "7611",
-        "7547",
-        "11650",
-        "7553",
+        "7594",
+        "9997",
         "5846",
+        "7553",
+        "5012",
         "1945",
-        "LV"
+        "IND"
       ],
       "starters_points": [
         0,
@@ -1270,7 +1270,7 @@
         "9997": 0,
         "11560": 0,
         "11650": 0,
-        "LV": 0
+        "IND": 0
       }
     },
     {
