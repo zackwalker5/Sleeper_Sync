@@ -73,6 +73,8 @@
     "sport": "nfl",
     "season_type": "regular",
     "season": "2025",
+    "shard": 368,
+    "last_message_id": "1286917411269791744",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -203,9 +205,6 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "shard": 368,
-    "last_message_id": "1286917411269791744",
-    "draft_id": "1257465328837861377",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -214,8 +213,9 @@
     "last_message_text_map": null,
     "last_message_time": 1761187529917,
     "last_pinned_message_id": null,
-    "last_read_id": null,
+    "draft_id": "1257465328837861377",
     "league_id": "1257465328837861376",
+    "last_read_id": null,
     "previous_league_id": "1120808251861479424",
     "roster_positions": [
       "QB",
