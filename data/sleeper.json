@@ -70,8 +70,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
+    "shard": 368,
+    "season": "2025",
     "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -202,8 +204,6 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "season": "2025",
-    "shard": 368,
     "last_message_id": "1290748885127413760",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
