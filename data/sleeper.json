@@ -7,7 +7,7 @@
     "league_season": "2025",
     "previous_season": "2024",
     "season_start_date": "2025-09-04",
-    "display_week": 10,
+    "display_week": 11,
     "league_create_season": "2025",
     "season_has_scores": true
   },
@@ -63,17 +63,18 @@
       "trade_review_days": 2,
       "bench_lock": 0,
       "offseason_adds": 0,
-      "leg": 10,
+      "leg": 11,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
       "daily_waivers_last_ran": 24
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2025",
     "shard": 368,
+    "season": "2025",
+    "season_type": "regular",
+    "sport": "nfl",
+    "last_message_id": "1294246666076950528",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,20 +205,18 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1294012946598350848",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1762879237369,
+    "last_message_time": 1762934960435,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1257465328837861377",
+    "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -236,6 +235,7 @@
     ],
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -611,7 +611,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 7
       },
       "starters": [
@@ -723,7 +723,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 7
       },
       "starters": [
@@ -1004,7 +1004,7 @@
         "8183",
         "9226",
         "CLE",
-        "GB"
+        "SEA"
       ],
       "reserve": [
         "12892"
@@ -1022,7 +1022,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 8,
+        "waiver_position": 10,
         "wins": 4
       },
       "starters": [
@@ -1612,7 +1612,7 @@
         "8183",
         "9226",
         "CLE",
-        "GB"
+        "SEA"
       ],
       "roster_id": 10,
       "custom_points": null,
@@ -1626,7 +1626,7 @@
         "11604",
         "6794",
         "11539",
-        "GB"
+        "0"
       ],
       "starters_points": [
         0,
@@ -1654,7 +1654,7 @@
         "12534": 0,
         "12892": 0,
         "CLE": 0,
-        "GB": 0
+        "SEA": 0
       }
     }
   ]
