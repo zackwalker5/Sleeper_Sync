@@ -69,7 +69,11 @@
       "daily_waivers_last_ran": 24
     },
     "avatar": null,
+    "shard": 368,
+    "season": "2025",
+    "season_type": "regular",
     "company_id": null,
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -200,28 +204,19 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "season": "2025",
-    "season_type": "regular",
-    "sport": "nfl",
-    "last_message_id": "1294839840495398912",
-    "shard": 368,
+    "last_message_id": "1295781891860869120",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1763076384236,
+    "last_message_time": 1763300986785,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1257465328837861377",
+    "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -238,6 +233,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -813,7 +813,6 @@
       "owner_id": "867237162704388096",
       "player_map": null,
       "players": [
-        "12501",
         "1466",
         "1479",
         "3294",
@@ -826,6 +825,7 @@
         "7002",
         "7543",
         "8259",
+        "9754",
         "NYJ"
       ],
       "reserve": null,
@@ -849,8 +849,8 @@
         "4892",
         "4034",
         "7543",
-        "12501",
-        "6149",
+        "9754",
+        "4039",
         "4033",
         "1479",
         "8259",
@@ -1415,7 +1415,6 @@
     {
       "points": 1,
       "players": [
-        "12501",
         "1466",
         "1479",
         "3294",
@@ -1428,6 +1427,7 @@
         "7002",
         "7543",
         "8259",
+        "9754",
         "NYJ"
       ],
       "roster_id": 7,
@@ -1437,8 +1437,8 @@
         "4892",
         "4034",
         "7543",
-        "12501",
-        "6149",
+        "9754",
+        "4039",
         "4033",
         "1479",
         "8259",
@@ -1468,7 +1468,7 @@
         "7002": 0,
         "7543": 0,
         "8259": 0,
-        "12501": 0,
+        "9754": 0,
         "NYJ": 1
       }
     },
