@@ -204,24 +204,19 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1297086333134581760",
+    "last_message_id": "1297129233079894016",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1763611989820,
+    "last_message_time": 1763622217963,
     "last_pinned_message_id": null,
     "draft_id": "1257465328837861377",
-    "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
+    "last_read_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -238,6 +233,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -457,12 +457,12 @@
       "player_map": null,
       "players": [
         "10236",
-        "11577",
         "11620",
+        "1166",
         "12474",
         "2505",
         "3321",
-        "3678",
+        "4195",
         "5859",
         "5892",
         "6797",
@@ -494,14 +494,14 @@
         "wins": 4
       },
       "starters": [
-        "6797",
+        "1166",
         "9509",
         "12474",
         "6801",
         "5859",
         "8110",
         "8137",
-        "3678",
+        "4195",
         "NE"
       ],
       "taxi": null
@@ -1051,12 +1051,12 @@
       "points": 0,
       "players": [
         "10236",
-        "11577",
         "11620",
+        "1166",
         "12474",
         "2505",
         "3321",
-        "3678",
+        "4195",
         "5859",
         "5892",
         "6797",
@@ -1071,14 +1071,14 @@
       "custom_points": null,
       "matchup_id": 2,
       "starters": [
-        "6797",
+        "1166",
         "9509",
         "12474",
         "6801",
         "5859",
         "8110",
         "8137",
-        "3678",
+        "4195",
         "NE"
       ],
       "starters_points": [
@@ -1093,9 +1093,10 @@
         0
       ],
       "players_points": {
+        "1166": 0,
         "2505": 0,
         "3321": 0,
-        "3678": 0,
+        "4195": 0,
         "5859": 0,
         "5892": 0,
         "6797": 0,
@@ -1105,7 +1106,6 @@
         "8151": 0,
         "9509": 0,
         "10236": 0,
-        "11577": 0,
         "11620": 0,
         "12474": 0,
         "NE": 0
