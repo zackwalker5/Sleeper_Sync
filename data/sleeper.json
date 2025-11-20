@@ -70,6 +70,7 @@
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1297129233079894016",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,7 +205,6 @@
     "season_type": "regular",
     "shard": 368,
     "sport": "nfl",
-    "last_message_id": "1297129233079894016",
     "draft_id": "1257465328837861377",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
