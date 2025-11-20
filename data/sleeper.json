@@ -217,8 +217,6 @@
     "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
-    "group_id": null,
-    "bracket_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -235,7 +233,9 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -672,8 +672,8 @@
       },
       "starters": [
         "4046",
+        "7611",
         "8150",
-        "11647",
         "9997",
         "9493",
         "5012",
@@ -791,13 +791,13 @@
         "wins": 3
       },
       "starters": [
-        "421",
-        "8228",
+        "11564",
+        "7021",
         "3198",
-        "4983",
+        "6819",
         "10232",
         "8111",
-        "7021",
+        "8228",
         "17",
         "PHI"
       ],
@@ -1258,8 +1258,8 @@
       "matchup_id": 5,
       "starters": [
         "4046",
+        "7611",
         "8150",
-        "11647",
         "9997",
         "9493",
         "5012",
@@ -1378,13 +1378,13 @@
       "custom_points": null,
       "matchup_id": 5,
       "starters": [
-        "421",
-        "8228",
+        "11564",
+        "7021",
         "3198",
-        "4983",
+        "6819",
         "10232",
         "8111",
-        "7021",
+        "8228",
         "17",
         "PHI"
       ],
