@@ -2,8 +2,8 @@
   "state": {
     "week": 12,
     "leg": 12,
-    "season_type": "regular",
     "season": "2025",
+    "season_type": "regular",
     "league_season": "2025",
     "previous_season": "2024",
     "season_start_date": "2025-09-04",
@@ -70,6 +70,11 @@
     },
     "avatar": null,
     "company_id": null,
+    "shard": 368,
+    "season": "2025",
+    "season_type": "regular",
+    "sport": "nfl",
+    "last_message_id": "1298351830610214912",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -200,11 +205,6 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "season": "2025",
-    "season_type": "regular",
-    "shard": 368,
-    "sport": "nfl",
-    "last_message_id": "1298351830610214912",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -213,8 +213,8 @@
     "last_message_text_map": null,
     "last_message_time": 1763913707929,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1257465328837861377",
+    "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
     "group_id": null,
@@ -1237,7 +1237,7 @@
       }
     },
     {
-      "points": 106.5,
+      "points": 108,
       "players": [
         "11560",
         "11647",
@@ -1271,7 +1271,7 @@
       "starters_points": [
         20.6,
         2,
-        4.3,
+        5.8,
         11.9,
         16.7,
         2.1,
@@ -1288,7 +1288,7 @@
         "7547": 29.9,
         "7553": 4.5,
         "7611": 2,
-        "8150": 4.3,
+        "8150": 5.8,
         "9493": 16.7,
         "9997": 11.9,
         "11560": 30.05,
@@ -1543,7 +1543,7 @@
       }
     },
     {
-      "points": 136.05,
+      "points": 140.25,
       "players": [
         "11597",
         "11792",
@@ -1581,7 +1581,7 @@
         8.6,
         55.4,
         15,
-        2,
+        6.2,
         9.5,
         11.1,
         10,
@@ -1599,7 +1599,7 @@
         "9221": 55.4,
         "11597": 10.7,
         "11792": 10,
-        "12514": 2,
+        "12514": 6.2,
         "12518": 9.5,
         "12529": 11.1,
         "12530": 0,
