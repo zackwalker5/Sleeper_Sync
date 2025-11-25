@@ -70,10 +70,11 @@
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1299090678713716736",
+    "sport": "nfl",
     "shard": 368,
     "season": "2025",
     "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,14 +205,13 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1299086434644283392",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1764088851180,
+    "last_message_time": 1764089863045,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1257465328837861377",
@@ -220,6 +220,8 @@
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -236,8 +238,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -591,8 +591,7 @@
         "7564",
         "8155",
         "9488",
-        "DEN",
-        "LV"
+        "DEN"
       ],
       "reserve": [
         "10222",
@@ -623,7 +622,7 @@
         "5022",
         "7049",
         "12711",
-        "LV"
+        "DEN"
       ],
       "taxi": null
     },
@@ -1034,9 +1033,9 @@
       },
       "starters": [
         "8183",
-        "4199",
         "7567",
-        "8148",
+        "9226",
+        "11635",
         "8126",
         "11604",
         "6794",
@@ -1189,8 +1188,7 @@
         "7564",
         "8155",
         "9488",
-        "DEN",
-        "LV"
+        "DEN"
       ],
       "roster_id": 3,
       "custom_points": null,
@@ -1204,7 +1202,7 @@
         "5022",
         "7049",
         "12711",
-        "LV"
+        "DEN"
       ],
       "starters_points": [
         0,
@@ -1232,8 +1230,7 @@
         "11655": 0,
         "12481": 0,
         "12711": 0,
-        "DEN": 0,
-        "LV": 0
+        "DEN": 0
       }
     },
     {
@@ -1631,7 +1628,7 @@
       "matchup_id": 4,
       "starters": [
         "8183",
-        "4199",
+        "7567",
         "9226",
         "11635",
         "8126",
