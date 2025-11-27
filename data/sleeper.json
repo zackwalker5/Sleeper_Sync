@@ -2,8 +2,8 @@
   "state": {
     "week": 13,
     "leg": 13,
-    "season": "2025",
     "season_type": "regular",
+    "season": "2025",
     "league_season": "2025",
     "previous_season": "2024",
     "season_start_date": "2025-09-04",
@@ -70,10 +70,11 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 368,
-    "season": "2025",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2025",
+    "last_message_id": "1299760333413429248",
+    "shard": 368,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,7 +205,6 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1299760333413429248",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -220,6 +220,8 @@
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -236,8 +238,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -1110,7 +1110,7 @@
       }
     },
     {
-      "points": 11.15,
+      "points": 11.5,
       "players": [
         "10229",
         "11786",
@@ -1142,7 +1142,7 @@
         "JAX"
       ],
       "starters_points": [
-        11.15,
+        11.5,
         0,
         0,
         0,
@@ -1154,7 +1154,7 @@
       ],
       "players_points": {
         "2449": 0,
-        "3163": 11.15,
+        "3163": 11.5,
         "3214": 0,
         "5045": 0,
         "7569": 0,
@@ -1292,7 +1292,7 @@
       }
     },
     {
-      "points": 13,
+      "points": 11,
       "players": [
         "11533",
         "11631",
@@ -1332,7 +1332,7 @@
         0,
         0,
         0,
-        4
+        2
       ],
       "players_points": {
         "96": 0,
@@ -1348,7 +1348,7 @@
         "11631": 0,
         "11638": 0,
         "12493": 0,
-        "DET": 4
+        "DET": 2
       }
     },
     {
@@ -1536,7 +1536,7 @@
       }
     },
     {
-      "points": 22.8,
+      "points": 32.25,
       "players": [
         "11597",
         "11792",
@@ -1570,9 +1570,9 @@
         "HOU"
       ],
       "starters_points": [
-        18.1,
+        26.55,
         0,
-        4.7,
+        5.7,
         0,
         0,
         0,
@@ -1584,12 +1584,12 @@
         "2216": 0,
         "5947": 0,
         "6790": 0,
-        "6804": 18.1,
+        "6804": 26.55,
         "6813": 0,
         "7523": 0,
         "8112": 0,
         "8134": 0,
-        "9221": 4.7,
+        "9221": 5.7,
         "11597": 0,
         "11792": 0,
         "12514": 0,
