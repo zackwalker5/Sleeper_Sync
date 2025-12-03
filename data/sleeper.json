@@ -7,7 +7,7 @@
     "league_season": "2025",
     "previous_season": "2024",
     "season_start_date": "2025-09-04",
-    "display_week": 13,
+    "display_week": 14,
     "league_create_season": "2026",
     "season_has_scores": true
   },
@@ -63,17 +63,18 @@
       "trade_review_days": 2,
       "bench_lock": 0,
       "offseason_adds": 0,
-      "leg": 13,
+      "leg": 14,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
       "daily_waivers_last_ran": 24
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1301623125934346240",
+    "sport": "nfl",
     "shard": 368,
     "season": "2025",
     "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,7 +205,6 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1301623125934346240",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
