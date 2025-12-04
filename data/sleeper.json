@@ -69,12 +69,6 @@
       "daily_waivers_last_ran": 24
     },
     "avatar": null,
-    "company_id": null,
-    "last_message_id": "1301994199494721536",
-    "shard": 368,
-    "season": "2025",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -205,20 +199,24 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
+    "season": "2025",
+    "season_type": "regular",
+    "shard": 368,
+    "sport": "nfl",
+    "company_id": null,
+    "last_message_id": "1302103971925614592",
     "draft_id": "1257465328837861377",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
+    "league_id": "1257465328837861376",
     "last_message_text_map": null,
-    "last_message_time": 1764782116344,
+    "previous_league_id": "1120808251861479424",
+    "last_message_time": 1764808288131,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "league_id": "1257465328837861376",
-    "previous_league_id": "1120808251861479424",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
     "roster_positions": [
       "QB",
@@ -236,6 +234,8 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -703,7 +703,7 @@
         "8130",
         "8144",
         "8408",
-        "DET"
+        "TB"
       ],
       "reserve": null,
       "roster_id": 5,
@@ -731,7 +731,7 @@
         "8130",
         "8144",
         "11533",
-        "DET"
+        "0"
       ],
       "taxi": null
     },
@@ -1301,7 +1301,7 @@
         "8130",
         "8144",
         "8408",
-        "DET"
+        "TB"
       ],
       "roster_id": 5,
       "custom_points": null,
@@ -1315,7 +1315,7 @@
         "8130",
         "8144",
         "11533",
-        "DET"
+        "0"
       ],
       "starters_points": [
         0,
@@ -1341,7 +1341,7 @@
         "11631": 0,
         "11638": 0,
         "12493": 0,
-        "DET": 0
+        "TB": 0
       }
     },
     {
