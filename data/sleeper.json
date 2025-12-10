@@ -5,15 +5,15 @@
     "season": "2025",
     "season_type": "regular",
     "league_season": "2025",
-    "season_start_date": "2025-09-04",
     "previous_season": "2024",
+    "season_start_date": "2025-09-04",
     "display_week": 15,
     "league_create_season": "2026",
     "season_has_scores": true
   },
   "league": {
     "name": "Family Fantasy Football",
-    "status": "in_season",
+    "status": "post_season",
     "metadata": {
       "auto_continue": "on",
       "keeper_deadline": "0"
@@ -213,10 +213,15 @@
     "last_message_text_map": null,
     "last_message_time": 1765303330470,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1257465328837861377",
+    "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
+    "bracket_id": 1304398351294300200,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": 1304398351298494500,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -233,11 +238,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -1063,7 +1063,7 @@
       ],
       "roster_id": 1,
       "custom_points": null,
-      "matchup_id": 2,
+      "matchup_id": 4,
       "starters": [
         "6770",
         "9509",
@@ -1185,7 +1185,7 @@
       ],
       "roster_id": 3,
       "custom_points": null,
-      "matchup_id": 2,
+      "matchup_id": 1,
       "starters": [
         "6904",
         "5850",
@@ -1246,7 +1246,7 @@
       ],
       "roster_id": 4,
       "custom_points": null,
-      "matchup_id": 1,
+      "matchup_id": null,
       "starters": [
         "4046",
         "11647",
@@ -1306,7 +1306,7 @@
       ],
       "roster_id": 5,
       "custom_points": null,
-      "matchup_id": 3,
+      "matchup_id": 2,
       "starters": [
         "4984",
         "7588",
@@ -1367,7 +1367,7 @@
       ],
       "roster_id": 6,
       "custom_points": null,
-      "matchup_id": 3,
+      "matchup_id": 5,
       "starters": [
         "421",
         "11584",
@@ -1428,7 +1428,7 @@
       ],
       "roster_id": 7,
       "custom_points": null,
-      "matchup_id": 4,
+      "matchup_id": 5,
       "starters": [
         "3294",
         "7543",
@@ -1552,7 +1552,7 @@
       ],
       "roster_id": 9,
       "custom_points": null,
-      "matchup_id": 5,
+      "matchup_id": null,
       "starters": [
         "6804",
         "6813",
@@ -1616,7 +1616,7 @@
       ],
       "roster_id": 10,
       "custom_points": null,
-      "matchup_id": 5,
+      "matchup_id": 2,
       "starters": [
         "8183",
         "7567",
