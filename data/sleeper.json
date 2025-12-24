@@ -1185,7 +1185,7 @@
       ],
       "roster_id": 3,
       "custom_points": null,
-      "matchup_id": null,
+      "matchup_id": 2,
       "starters": [
         "6904",
         "11655",
@@ -1246,7 +1246,7 @@
       ],
       "roster_id": 4,
       "custom_points": null,
-      "matchup_id": null,
+      "matchup_id": 1,
       "starters": [
         "11560",
         "11647",
@@ -1307,7 +1307,7 @@
       ],
       "roster_id": 5,
       "custom_points": null,
-      "matchup_id": null,
+      "matchup_id": 2,
       "starters": [
         "4984",
         "7588",
@@ -1553,7 +1553,7 @@
       ],
       "roster_id": 9,
       "custom_points": null,
-      "matchup_id": null,
+      "matchup_id": 1,
       "starters": [
         "6804",
         "6813",
