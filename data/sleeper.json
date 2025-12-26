@@ -2,8 +2,8 @@
   "state": {
     "week": 17,
     "leg": 17,
-    "season_type": "regular",
     "season": "2025",
+    "season_type": "regular",
     "league_season": "2025",
     "previous_season": "2024",
     "season_start_date": "2025-09-04",
@@ -70,9 +70,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
+    "shard": 368,
     "season": "2025",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,7 +205,6 @@
       "st_ff": 1
     },
     "last_message_id": "1309972769919762432",
-    "shard": 368,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
