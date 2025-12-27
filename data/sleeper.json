@@ -2,8 +2,8 @@
   "state": {
     "week": 17,
     "leg": 17,
-    "season_type": "regular",
     "season": "2025",
+    "season_type": "regular",
     "league_season": "2025",
     "previous_season": "2024",
     "season_start_date": "2025-09-04",
@@ -73,6 +73,8 @@
     "sport": "nfl",
     "season_type": "regular",
     "season": "2025",
+    "last_message_id": "1310693854172712960",
+    "shard": 368,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -203,20 +205,18 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1309972769919762432",
-    "shard": 368,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1766684355768,
+    "last_message_time": 1766856275650,
     "last_pinned_message_id": null,
     "draft_id": "1257465328837861377",
-    "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
+    "last_read_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -637,6 +637,7 @@
         "11560",
         "11647",
         "1945",
+        "3257",
         "4046",
         "5012",
         "5846",
@@ -647,7 +648,7 @@
         "8150",
         "9493",
         "9997",
-        "ATL"
+        "GB"
       ],
       "reserve": [
         "4046"
@@ -669,15 +670,15 @@
         "wins": 10
       },
       "starters": [
-        "11560",
-        "11647",
+        "3257",
+        "7611",
         "8150",
         "9997",
         "9493",
         "7553",
         "7547",
         "1945",
-        "ATL"
+        "GB"
       ],
       "taxi": null
     },
@@ -1234,6 +1235,7 @@
         "11560",
         "11647",
         "1945",
+        "3257",
         "4046",
         "5012",
         "5846",
@@ -1244,21 +1246,21 @@
         "8150",
         "9493",
         "9997",
-        "ATL"
+        "GB"
       ],
       "roster_id": 4,
       "custom_points": null,
       "matchup_id": 1,
       "starters": [
-        "11560",
-        "11647",
+        "3257",
+        "7611",
         "8150",
         "9997",
         "9493",
         "7553",
         "7547",
         "1945",
-        "ATL"
+        "GB"
       ],
       "starters_points": [
         0,
@@ -1273,6 +1275,7 @@
       ],
       "players_points": {
         "1945": 0,
+        "3257": 0,
         "4046": 0,
         "5012": 0,
         "5846": 0,
@@ -1285,7 +1288,7 @@
         "9997": 0,
         "11560": 0,
         "11647": 0,
-        "ATL": 0
+        "GB": 0
       }
     },
     {
