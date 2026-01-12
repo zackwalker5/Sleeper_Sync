@@ -2,11 +2,11 @@
   "state": {
     "week": 1,
     "leg": 18,
-    "season": "2025",
     "season_type": "post",
+    "season": "2025",
     "league_season": "2026",
-    "season_start_date": "2026-01-10",
     "previous_season": "2024",
+    "season_start_date": "2026-01-10",
     "display_week": 1,
     "league_create_season": "2026",
     "season_has_scores": true
@@ -218,6 +218,11 @@
     "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
+    "group_id": null,
+    "bracket_id": 1304398351294300200,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": 1304398351298494500,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -234,11 +239,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": 1304398351294300200,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": 1304398351298494500,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
