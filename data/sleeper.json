@@ -70,11 +70,11 @@
       "daily_waivers_last_ran": 24
     },
     "avatar": null,
+    "company_id": null,
     "shard": 368,
     "season": "2025",
     "season_type": "regular",
     "sport": "nfl",
-    "company_id": null,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -214,13 +214,13 @@
     "last_message_text_map": null,
     "last_message_time": 1767166066244,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1257465328837861377",
+    "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
+    "group_id": null,
     "bracket_id": 1304398351294300200,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": 1304398351298494500,
     "loser_bracket_overrides_id": null,
     "roster_positions": [
