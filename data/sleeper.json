@@ -1,9 +1,9 @@
 {
   "state": {
     "week": 0,
-    "season_type": "off",
-    "season": "2026",
     "leg": 0,
+    "season": "2026",
+    "season_type": "off",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": null,
@@ -206,7 +206,6 @@
       "st_ff": 1
     },
     "last_message_id": "1311993210096066560",
-    "draft_id": "1257465328837861377",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -215,6 +214,7 @@
     "last_message_text_map": null,
     "last_message_time": 1767166066244,
     "last_pinned_message_id": null,
+    "draft_id": "1257465328837861377",
     "last_read_id": null,
     "league_id": "1257465328837861376",
     "previous_league_id": "1120808251861479424",
